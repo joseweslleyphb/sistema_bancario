@@ -72,7 +72,7 @@ def main():
         elif opcao == 3:
             mostra_extrato()
         elif opcao == 4:
-            print("Saindo do sistema. Obrigado!")
+            print("Sistema finalizado. Obrigado por usar nosso sistema bancario!")
             break
         else:
             print("Opção inválida. Por favor, escolha um número entre 1 e 4.")
